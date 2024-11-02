@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Code wird generiert...
+C:\Users\michi\SYS.22 Schulaufgaben\Softwareentwicklung\HS24\C-Lion Code\Taschenrechner\MyForm.cpp(8,6): warning C4829: Möglicherweise falsche Parameter für Main-Funktion. Verwenden Sie eventuell "int main(Platform::Array<Platform::String^>^ args)".
+  MyForm.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  Taschenrechner.vcxproj -> C:\Users\michi\SYS.22 Schulaufgaben\Softwareentwicklung\HS24\C-Lion Code\Taschenrechner\x64\Debug\Taschenrechner.exe

@@ -1,0 +1,3 @@
+C:\Users\michi\SYS.22 Schulaufgaben\Softwareentwicklung\HS24\C-Lion Code\Taschenrechner\Taschenrechner\x64\Debug\Taschenrechner.vcxproj.AssemblyReference.cache
+C:\Users\michi\SYS.22 Schulaufgaben\Softwareentwicklung\HS24\C-Lion Code\Taschenrechner\Taschenrechner\x64\Debug\Taschenrechner.MyForm.resources
+C:\Users\michi\SYS.22 Schulaufgaben\Softwareentwicklung\HS24\C-Lion Code\Taschenrechner\Taschenrechner\x64\Debug\Taschenrechner.vcxproj.GenerateResource.cache
